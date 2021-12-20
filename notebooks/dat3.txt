@@ -1,0 +1,4 @@
+Document,Criteria,Score,Keyphrase,Frequency,Text score
+Tweet_1.txt,Text score,0.08108,fight,1,0.02703
+----,Share of lexicon,0.01523,fight,1,0.02703
+ ---- , ---- , ----,fight,1,0.02703

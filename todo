@@ -1,0 +1,16 @@
+1. Retweet graph visualization
+2. Degree distribution of the retweet graph (A figure)
+3. Number of communities
+4. Add implicit links in the links
+5. Degree distribution of the modified graph (A figure)
+6. Number of communities
+7. Difference between the communities before and after adding the implicit links
+
+8. Implicit graph
+9. Degree distribution of imlicit graph
+
+
+-- A) Generate the implicit edges for fifth step
+-- B) Combine the explicit and implicit edges into the single graph
+-- C) remove edges/nodes with degree 1
+-- D) plots the remaining data

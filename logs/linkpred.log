@@ -1,0 +1,167 @@
+launching ...
+[LightGBM] [Warning] Starting from the 2.1.2 version, default value for the "boost_from_average" parameter in "binary" objective is true.
+This may cause significantly different results comparing to the previous versions of LightGBM.
+Try to set boost_from_average=false, if your old models produce bad results
+[LightGBM] [Info] Number of positive: 1062, number of negative: 13288
+[LightGBM] [Info] Total Bins 25500
+[LightGBM] [Info] Number of data: 14350, number of used features: 100
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.074007 -> initscore=-2.526707
+[LightGBM] [Info] Start training from score -2.526707
+starting ...
+621.2102
+1483
+learning a linear model ...
+done.
+0.8065758001600112
+done.
+lightGBR ...
+start learning ...
+[1]	valid_0's auc: 0.681113
+Training until validation scores don't improve for 20 rounds
+[2]	valid_0's auc: 0.758076
+[3]	valid_0's auc: 0.781395
+[4]	valid_0's auc: 0.7987
+[5]	valid_0's auc: 0.811349
+[6]	valid_0's auc: 0.820025
+[7]	valid_0's auc: 0.827725
+[8]	valid_0's auc: 0.833105
+[9]	valid_0's auc: 0.837676
+[10]	valid_0's auc: 0.842582
+[11]	valid_0's auc: 0.848062
+[12]	valid_0's auc: 0.852895
+[13]	valid_0's auc: 0.853335
+[14]	valid_0's auc: 0.855366
+[15]	valid_0's auc: 0.85773
+[16]	valid_0's auc: 0.860517
+[17]	valid_0's auc: 0.862411
+[18]	valid_0's auc: 0.864159
+[19]	valid_0's auc: 0.865951
+[20]	valid_0's auc: 0.866446
+[21]	valid_0's auc: 0.870606
+[22]	valid_0's auc: 0.87258
+[23]	valid_0's auc: 0.875337
+[24]	valid_0's auc: 0.87704
+[25]	valid_0's auc: 0.879319
+[26]	valid_0's auc: 0.880738
+[27]	valid_0's auc: 0.882117
+[28]	valid_0's auc: 0.882887
+[29]	valid_0's auc: 0.884903
+[30]	valid_0's auc: 0.886188
+[31]	valid_0's auc: 0.887049
+[32]	valid_0's auc: 0.887113
+[33]	valid_0's auc: 0.887323
+[34]	valid_0's auc: 0.88828
+[35]	valid_0's auc: 0.888287
+[36]	valid_0's auc: 0.889653
+[37]	valid_0's auc: 0.890279
+[38]	valid_0's auc: 0.890214
+[39]	valid_0's auc: 0.890074
+[40]	valid_0's auc: 0.890375
+[41]	valid_0's auc: 0.891011
+[42]	valid_0's auc: 0.891921
+[43]	valid_0's auc: 0.892159
+[44]	valid_0's auc: 0.892822
+[45]	valid_0's auc: 0.893769
+[46]	valid_0's auc: 0.89403
+[47]	valid_0's auc: 0.895108
+[48]	valid_0's auc: 0.895756
+[49]	valid_0's auc: 0.896138
+[50]	valid_0's auc: 0.896069
+[51]	valid_0's auc: 0.896252
+[52]	valid_0's auc: 0.896681
+[53]	valid_0's auc: 0.896903
+[54]	valid_0's auc: 0.89663
+[55]	valid_0's auc: 0.897255
+[56]	valid_0's auc: 0.897904
+[57]	valid_0's auc: 0.897792
+[58]	valid_0's auc: 0.898241
+[59]	valid_0's auc: 0.897872
+[60]	valid_0's auc: 0.898357
+[61]	valid_0's auc: 0.899352
+[62]	valid_0's auc: 0.899741
+[63]	valid_0's auc: 0.899625
+[64]	valid_0's auc: 0.900616
+[65]	valid_0's auc: 0.900824
+[66]	valid_0's auc: 0.901335
+[67]	valid_0's auc: 0.901442
+[68]	valid_0's auc: 0.902116
+[69]	valid_0's auc: 0.90232
+[70]	valid_0's auc: 0.902215
+[71]	valid_0's auc: 0.902586
+[72]	valid_0's auc: 0.902907
+[73]	valid_0's auc: 0.903205
+[74]	valid_0's auc: 0.903607
+[75]	valid_0's auc: 0.903406
+[76]	valid_0's auc: 0.904142
+[77]	valid_0's auc: 0.905314
+[78]	valid_0's auc: 0.905391
+[79]	valid_0's auc: 0.905939
+[80]	valid_0's auc: 0.906641
+[81]	valid_0's auc: 0.906849
+[82]	valid_0's auc: 0.906897
+[83]	valid_0's auc: 0.90678
+[84]	valid_0's auc: 0.907196
+[85]	valid_0's auc: 0.907294
+[86]	valid_0's auc: 0.907946
+[87]	valid_0's auc: 0.908096
+[88]	valid_0's auc: 0.908581
+[89]	valid_0's auc: 0.908693
+[90]	valid_0's auc: 0.908683
+[91]	valid_0's auc: 0.908746
+[92]	valid_0's auc: 0.908528
+[93]	valid_0's auc: 0.908587
+[94]	valid_0's auc: 0.908968
+[95]	valid_0's auc: 0.909113
+[96]	valid_0's auc: 0.909155
+[97]	valid_0's auc: 0.908934
+[98]	valid_0's auc: 0.90913
+[99]	valid_0's auc: 0.909065
+[100]	valid_0's auc: 0.909022
+[101]	valid_0's auc: 0.909167
+[102]	valid_0's auc: 0.909888
+[103]	valid_0's auc: 0.910402
+[104]	valid_0's auc: 0.910916
+[105]	valid_0's auc: 0.911311
+[106]	valid_0's auc: 0.911892
+[107]	valid_0's auc: 0.912261
+[108]	valid_0's auc: 0.912509
+[109]	valid_0's auc: 0.912449
+[110]	valid_0's auc: 0.912371
+[111]	valid_0's auc: 0.912217
+[112]	valid_0's auc: 0.912249
+[113]	valid_0's auc: 0.912423
+[114]	valid_0's auc: 0.912461
+[115]	valid_0's auc: 0.912784
+[116]	valid_0's auc: 0.913039
+[117]	valid_0's auc: 0.913365
+[118]	valid_0's auc: 0.913414
+[119]	valid_0's auc: 0.913427
+[120]	valid_0's auc: 0.913483
+[121]	valid_0's auc: 0.914425
+[122]	valid_0's auc: 0.91436
+[123]	valid_0's auc: 0.914143
+[124]	valid_0's auc: 0.914435
+[125]	valid_0's auc: 0.913892
+[126]	valid_0's auc: 0.913892
+[127]	valid_0's auc: 0.913306
+[128]	valid_0's auc: 0.9133
+[129]	valid_0's auc: 0.913183
+[130]	valid_0's auc: 0.912801
+[131]	valid_0's auc: 0.912791
+[132]	valid_0's auc: 0.9128
+[133]	valid_0's auc: 0.912841
+[134]	valid_0's auc: 0.91271
+[135]	valid_0's auc: 0.912442
+[136]	valid_0's auc: 0.912973
+[137]	valid_0's auc: 0.912931
+[138]	valid_0's auc: 0.91276
+[139]	valid_0's auc: 0.912837
+[140]	valid_0's auc: 0.91305
+[141]	valid_0's auc: 0.91356
+[142]	valid_0's auc: 0.913595
+[143]	valid_0's auc: 0.913226
+[144]	valid_0's auc: 0.913547
+Early stopping, best iteration is:
+[124]	valid_0's auc: 0.914435
+done.
+done.

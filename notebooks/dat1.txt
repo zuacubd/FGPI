@@ -1,0 +1,4 @@
+Document,Criteria,Score,Keyphrase,Frequency,Text score
+Tweet_3.txt,Text score,0.07692,killing,1,0.02564
+----,Share of lexicon,0.01523,brother,1,0.02564
+ ---- , ---- , ----,brother,1,0.02564

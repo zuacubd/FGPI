@@ -1,0 +1,9 @@
+Document,Criteria,Score,Keyphrase,Frequency,Text score
+Tweet_9.txt,Text score,0.08594,fight,1,0.00781
+----,Share of lexicon,0.04061,fight,1,0.00781
+ ---- , ---- , ----,paradise,1,0.00781
+ ---- , ---- , ----,brother,2,0.01562
+ ---- , ---- , ----,brother,2,0.01562
+ ---- , ---- , ----,armed,1,0.00781
+ ---- , ---- , ----,fight,1,0.00781
+ ---- , ---- , ----,islamic state,1,0.01562
